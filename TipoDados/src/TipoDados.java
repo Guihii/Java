@@ -7,12 +7,19 @@ public class TipoDados {
         float pi = 3.14F;
         double salario = 1275.33;
 
+        int numero = 5;
+
+
+
+    
+
         System.out.println("Idade: " + idade);
         System.out.println("Idade: " + ano);
         System.out.println("Idade: " + cep);
         System.out.println("Idade: " + cpf);
         System.out.println("Idade: " + pi);
         System.out.println("Idade: " + salario);
+        System.out.println("numero: " + numero);
 
         
 
